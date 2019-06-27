@@ -21,7 +21,7 @@ Here in this project I am using an animals dataset  with three classes. In this 
 In deep learning Convolutional Neural Network is a class of deep neural network, the term convolutional refers to the mathematical  combination of two functions to produce a third function. In case of a CNN the convolutional is performed  on the input data with the use of a filter or kernal to produce a feature map.
 
 <br><br>
-<center><img src="https://cdn-images-1.medium.com/max/1600/1*uAeANQIOQPqWZnnuH-VEyw.jpeg" height=42%  width=60% /> <br>Reference : meduim</center>
+<center><img src="https://cdn-images-1.medium.com/max/1600/1*uAeANQIOQPqWZnnuH-VEyw.jpeg" height=42%  width=60% /> </center>
 <br>
 Convolutional Neural Networks (CNNs / ConvNets) ... ConvNet architectures make the explicit assumption that the inputs are images, which allows us to encode certain properties into the architecture. These then make the forward function more efficient to implement and vastly reduce the amount of parameters in the network.
 
