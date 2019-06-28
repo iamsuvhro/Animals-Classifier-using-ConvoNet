@@ -1,5 +1,5 @@
 # Animals Classifier using Deep Convolutional Neural Network
-<p> In this notebook you will see the all  process  for  building powerfull classifier. Here I'm using four multiple classes for making powerfull and complete Animal Classifier.</p>
+<p> In this notebook you will see the all  process  for  building powerfull classifier. Here I'm using three multiple classes for making powerfull and complete Animal Classifier.</p>
 <br>
 <br>
 
