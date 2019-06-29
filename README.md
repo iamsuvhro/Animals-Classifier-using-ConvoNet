@@ -10,7 +10,7 @@
 
 Here in this project I am using an animals dataset  with three classes. In this dataset my goal is to  classify animals and predict the animal names. 
 
-<b>Training Data<b><br>
+<b>Training Data</b><br>
   Dog : 2000 Samples<br>
   Bird:  2000 Samples<br>
   Tiger:2000 Samples<br>
